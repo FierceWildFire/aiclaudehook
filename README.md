@@ -1,4 +1,4 @@
-# detection-workflow
+# aiclaudehook
 
 A demo repo showing how [Claude Code](https://claude.com/claude-code) hooks can be wired into a detection-rule authoring workflow: validating rule YAML, blocking edits to sensitive files, and logging activity.
 
